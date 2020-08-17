@@ -1,0 +1,217 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+#bg{
+background-color: black;
+
+}
+#pw{
+    color: rgb(255, 255, 255);
+ 
+
+    
+    }
+
+#p{
+color: rgb(0, 0, 0);
+font-size: 300%;
+text-align: center;
+
+}
+
+#mrg{
+margin-top: 200px;
+
+}
+
+
+#mrg2{
+margin-top: 50px;
+
+}
+
+#bgimg{
+background: url(https://media1.tenor.com/images/bbc72e8f200db31027894f80eb00e2ae/tenor.gif?itemid=11257212);
+background-size: cover;
+}
+
+#bor {
+    background-color: rgb(255, 255, 255);
+    width:550px;
+    padding: 50px;
+    border: 5px solid rgb(0, 0, 0);
+    margin-top: 100px;
+    margin-left: 120px;
+ 
+}
+
+#bor4 {
+    background-color: rgb(255, 255, 255);
+    width:550px;
+    padding: 50px;
+    border: 5px solid rgb(0, 0, 0);
+    margin-top: 100px;
+    margin-left: 10px;
+ 
+}
+
+ 
+
+
+#ph{
+    color: rgb(0, 195, 255);
+    font-size: 250%;
+    text-align: left;
+}
+
+#ph2{
+    color: rgb(0, 0, 0);
+    font-size: 150%;
+    text-align: left;
+}
+
+#ph3{
+    color: rgb(0, 0, 0);
+    font-size: 250%;
+    text-align: left;
+}
+
+#bor2 {
+    background-color: rgb(71, 62, 196);
+    width: 700px;
+    border: 5px solid rgb(0, 0, 0);
+    margin-top: 100px;
+    margin-right: 40px;
+    margin-left: 40px;
+ 
+}
+#bor3 {
+    background-color: rgb(71, 62, 196);
+    width: 800px;
+    border: 5px solid rgb(0, 0, 0);
+    margin-top: 100px;
+    margin-left: 120px;
+ 
+}
+#bor4 {
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    border: 5px solid rgb(0, 0, 0);
+    margin-top: 100px;
+    margin-left: 20px;
+ 
+}
+
+body {
+    margin: 0;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 10%;
+    background-color: #424242;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    padding: 20px 16px;
+    text-decoration: none;
+  }
+  
+  li a.active {
+   
+    color: black;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: rgb(119, 119, 119);
+    color: white;
+  }
+
+  
+  #bgimg2{
+    background: url(https://i.pinimg.com/originals/95/3d/c1/953dc19b8d5038d4918a42db8e5339c5.gif);
+    background-size: cover;
+    }
+
+    #bg3{
+background: url(https://media3.giphy.com/media/BHNfhgU63qrks/giphy.gif);
+background-size: cover;
+
+    }
+    #bg4{
+        background: url(https://i.pinimg.com/originals/e8/b4/ca/e8b4cafebf9c3a684aefc88f132f4de8.gif);
+        background-size: cover;
+        
+            }
+ #bg5{
+        background: url(https://steamuserimages-a.akamaihd.net/ugc/868487305993293791/BA14784AF7E3D0442A0CF46A97B152D7CC73482F/);
+        background-size: cover;
+        
+            }
+
+    #bg6{
+        background: url(https://media1.tenor.com/images/4eac7fedd4ca5d1cbb8881e324e5a196/tenor.gif?itemid=9026370);
+        background-size: cover;
+               
+         }
+         #bg8{
+            background: url(https://i.pinimg.com/originals/06/ab/53/06ab537332adeb2304f4dfa387340dc1.gif);
+            background-size: cover;
+                   
+             }
+
+    #bod {
+        width: 500px;
+        padding: 10px;
+        border: 2px solid gray;
+        margin: 0;
+        background-color: rgb(255, 208, 0);
+      }
+
+      
+    #bod2 {
+        width: 700px;
+        padding: 10px;
+        border: 2px solid gray;
+        margin: 0;
+        background-color: rgb(255, 94, 0);
+      }
+
+      #bod4 {
+        width: 700px;
+        padding: 10px;
+        border: 2px solid rgb(55, 0, 255);
+        margin: 0;
+        background-color: rgb(187, 55, 187);
+      }
+      #bod5 {
+        width: 300px;
+        padding: 5px;
+        border: 6px solid rgb(255, 255, 255);
+        margin: 0;
+        
+
+      }
+
+    #bod7 {
+      width: 800px;
+      height: 650px;
+      padding: 100px;
+      border: 20px solid rgb(255, 255, 255);
+      margin: 0;
+      
+
+    }
+
+      #bod6 {
+        width: 500px;
+        padding: 10px;
+        border: 2px solid rgb(0, 0, 0);
+        margin: 0;
+        background-color: rgb(255, 255, 255);
+      }
